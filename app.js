@@ -3,7 +3,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('SIT737 Credit Task 6.2C');
+  res.send('SIT737 Credit Task 6.2C - Part 2');
 });
 
 app.listen(PORT, () => {
